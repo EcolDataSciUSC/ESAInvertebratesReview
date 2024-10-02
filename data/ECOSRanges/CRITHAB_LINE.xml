@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Fish and Wildlife Service</origin>
+				<pubdate>20221028</pubdate>
+				<title>FWS Critical Habitat</title>
+				<geoform>Vector Digital Data Set (Polyline)</geoform>
+				<pubinfo>
+					<pubplace>Washington, D.C.</pubplace>
+					<publish>U.S. Fish and Wildlife Service, Endangered Species Program, ECOS Joint Development Team</publish>
+				</pubinfo>
+				<onlink>http://ecos.fws.gov/docs/crithab/crithab_all/crithab_all_layers.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>When a species is proposed for listing as endangered or threatened under the Endangered Species Act, the U.S. Fish and Wildlife Service must consider whether there are areas of habitat believed to be essential the species’ conservation. Those areas may be proposed for designation as “critical habitat.” Critical habitat is a term defined and used in the Act. It is a specific geographic area(s) that contains features essential for the conservation of a threatened or endangered species and that may require special management and protection. Critical habitat may include an area that is not currently occupied by the species but that will be needed for its recovery. An area is designated as “critical habitat” after the Service publishes a proposed Federal regulation in the Federal Register and receives and considers public comments on the proposal. The final boundaries of the critical habitat are also published in the Federal Register.</abstract>
+			<purpose>Critical habitat are areas considered essential for the conservation of a listed species. Federal agencies are required to consult with the U.S. Fish and Wildlife Service on actions they carry out, fund, or authorize to ensure that their actions will not destroy or adversely modify critical habitat. These areas provide notice to the public and land managers of the importance of these areas to the conservation of a listed species. Special protections and/or restrictions are possible in areas where Federal funding, permits, licenses, authorizations, or actions occur or are required.</purpose>
+			<supplinf>All data were developed by FWS field offices. For data-specific questions, please refer to the individual shapefiles. No data alterations are made by ECOS.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>19660101</begdate>
+					<enddate>present</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-124.707720655</westbc>
+				<eastbc>-76.1212915</eastbc>
+				<northbc>49.00235167</northbc>
+				<southbc>24.523136712</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Biodiversity and Ecosystems</themekey>
+				<themekey>Threatened species</themekey>
+				<themekey>NGDA</themekey>
+				<themekey>biota</themekey>
+				<themekey>Listed species</themekey>
+				<themekey>National Geospatial Data Asset</themekey>
+				<themekey>environment</themekey>
+				<themekey>Endangered species</themekey>
+				<themekey>Critical Habitat</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>environment</themekey>
+				<themekey>biota</themekey>
+			</theme>
+			<place>
+				<placekt>Location</placekt>
+				<placekey>Missouri</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Alaska</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>United States</placekey>
+				<placekey>Texas</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Virgin Islands</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Alabama</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Northern Mariana Islands</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>California</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Colorado</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None The GIS files and their associated coordinates are not the legal source for determining the critical habitat boundaries of species described within this dataset. Inherent in any data set used to develop graphical representations, are limitations of accuracy as determined by, among others, the source, scale and resolution of the data. While the Service makes every effort to represent the critical habitat shown with this data as completely and accurately as possible (given existing time and resource constraints), the USFWS gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. In addition, the USFWS shall not be held liable for improper or incorrect use of the data described and/or contained herein. Graphical representations provided by the use of this data do not represent a legal description of the critical habitat boundary. The user is referred to the critical habitat textual description in the appropriate final rule for this species as published in the Federal Register. These data are to be used only in the context of the definition and purpose of critical habitat. This primarily relates to Section 7 consultation under the Endangered Species Act. These data may be used for planning and land management purposes. They are not to be used for legal survey use.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Fish and Wildlife Service</cntorg>
+					<cntper>Zoe Ritter</cntper>
+				</cntorgp>
+				<cntpos>Branch of Data Integration, Ecological Services</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical</addrtype>
+					<address>5275 Leesburg Pike</address>
+					<city>Bailey's Crossroads</city>
+					<state>VA</state>
+					<postal>22041</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>703-358-2171</cntvoice>
+				<cntemail>ECOSphereSupport@doimspp.onmicrosoft.com</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>The data found in this file were developed by the U.S. Fish &amp; Wildlife Service field offices. For more information please refer to the species level metadata found with the individual shapefiles. The ECOS Joint Development Team is responsible for creating and serving this conglomerate file. No data alterations are made by ECOS.</datacred>
+		<native>Environment as of Metadata Creation: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1 (Build 4959) Service Pack N/A (Build N/A)</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The source data was checked using standard review procedures. Attributes were checked by using visual inspection as well as automated verification routines. Quality of the attribute information varies with age and mapping protocols used when individual maps were prepared</attraccr>
+		</attracc>
+		<logic>Polygon and chain-node topology are present. Every polygon has a label.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at http://epa.gov/geospatial/policies.html</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>A formal accuracy assessment of the vertical positional information in the data set has either not been conducted, or is not applicable.</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>Data is acquired from field offices responsible for developing individual species shapefiles. The shapefiles are then merged to create this all layers shapefile. For development of individual species shapefiles, please refer to that individual species' metadata.</procdesc>
+				<procdate>20220711</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>String</sdtstype>
+				<ptvctcnt>79</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.0197621035</latres>
+				<longres>0.0245516791</longres>
+				<geogunit>Decimal seconds</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>D_WGS_1984</horizdn>
+				<ellips>WGS_1984</ellips>
+				<semiaxis>6378137.0</semiaxis>
+				<denflat>298.257223563</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="CRITHAB_LINE">
+			<enttyp>
+				<enttypl>Attribute Table</enttypl>
+				<enttypd>Table containing attribute information associated with the data set.</enttypd>
+				<enttypds>Producer defined</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>comname</attrlabl>
+				<attrdef>Legal common name of the species</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Legal common name of the species</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>sciname</attrlabl>
+				<attrdef>Binomial or trinomial scientific name</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Binomial or trinomial scientific name</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>spcode</attrlabl>
+				<attrdef>Unique Species Code referencing the species for the critical habitat being submitted</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Unique Species Code referencing the species for the critical habitat being submitted</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>vipcode</attrlabl>
+				<attrdef>Unique Population Code referencing the species for the critical habitat being submitted</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Unique Population Code referencing the species for the critical habitat being submitted</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>unit</attrlabl>
+				<attrdef>Critical Habitat unit code described in the Federal Register document.</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Critical Habitat unit code described in the Federal Register document.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>subunit</attrlabl>
+				<attrdef>Critical Habitat subunit code described in the Federal Register document.</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Critical Habitat subunit code described in the Federal Register document.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>unitname</attrlabl>
+				<attrdef>Critical Habitat unit name described in the Federal Register document.</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Critical Habitat unit name described in the Federal Register document.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>subunitnam</attrlabl>
+				<attrdef>Critical Habitat subunit name described in the Federal Register document.</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Critical Habitat subunit name described in the Federal Register document.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>status</attrlabl>
+				<attrdef>Code designating species status</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Final</edomv>
+						<edomvd>Final Critical Habitat</edomvd>
+						<edomvds>U.S. Fish and Wildlife Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Proposed</edomv>
+						<edomvd>Proposed Critical Habitat</edomvd>
+						<edomvds>Producer defined</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Exempt / Excluded</edomv>
+						<edomvd>Exempt (4a3) or Excluded (4b2)</edomvd>
+						<edomvds>U.S. Fish and Wildlife Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Vacated</edomv>
+						<edomvd>Vacated by court order</edomvd>
+						<edomvds>U.S. Fish and Wildlife Service</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>leadoffice</attrlabl>
+				<attrdef>Lead office cost center code used by the U.S. Fish and Wildlife Service</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Lead office cost center code used by the U.S. Fish and Wildlife Service</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>coopoffice</attrlabl>
+				<attrdef>Cooperating office cost center code used by the U.S. Fish and Wildlife Service</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Cooperating office cost center code used by the U.S. Fish and Wildlife Service</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>coopofmore</attrlabl>
+				<attrdef>Additional cooperating office cost center code used by the U.S. Fish and Wildlife Service</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<udom>Additional cooperating office cost center code used by the U.S. Fish and Wildlife Service</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>fedreg</attrlabl>
+				<attrdef>Federal Register ID</attrdef>
+				<attrdefs>Federal Register</attrdefs>
+				<attrdomv>
+					<udom>FEDREG attribute refers to the volume number and first page of the federal register publication describing the critical habitat.  This reference is in the following format:  &lt;Volume Number&gt;FR&lt;First Page Number&gt;</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>pubdate</attrlabl>
+				<attrdef>Federal Register publication date</attrdef>
+				<attrdefs>Federal Register</attrdefs>
+				<attrdomv>
+					<udom>Federal Register publication date</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>effectdate</attrlabl>
+				<attrdef>Effective date for critical habitat designation</attrdef>
+				<attrdefs>Federal Register</attrdefs>
+				<attrdomv>
+					<udom>Effective date for critical habitat designation</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>vacatedate</attrlabl>
+				<attrdef>Date critical habitat designation vacated</attrdef>
+				<attrdefs>Producer defined</attrdefs>
+				<attrdomv>
+					<udom>Date critical habitat designation vacated</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>accuracy</attrlabl>
+				<attrdef>Accuracy Items or Concerns</attrdef>
+				<attrdefs>Producer defined</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Please check current species specific shapefile</edomv>
+						<edomvd>Unknown</edomvd>
+						<edomvds>Producer defined</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>source_id</attrlabl>
+				<attrdef>A unique identifier used only for internal purposes.</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1948</rdommax>
+						<attrunit>None</attrunit>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>listing_st</attrlabl>
+				<attrdef>A species is listed under one of two categories, endangered species or threatened species, depending on its status and the degree of threat it faces.</attrdef>
+				<attrdefs>U.S. Fish and Wildlife Service</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Endangered</edomv>
+						<edomvd>Any species that is in danger of extinction throughout all or a significant portion of its range.</edomvd>
+						<edomvds>U.S. Fish and Wildlife Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Resolved Taxon</edomv>
+						<edomvd>Species that have been petitioned for listing and for which a Not Warranted 12 month finding or Not Substantial 90-day finding has been published in the Federal Register. Also includes species that have been removed from the candidate list.</edomvd>
+						<edomvds>U.S. Fish and Wildlife Service</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>Threatened</edomv>
+						<edomvd>Any species that is likely to become an endangered species within the foreseeable future throughout all or a significant portion of its range.</edomvd>
+						<edomvds>U.S. Fish and Wildlife Service</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>The entity and attribute information provided here describes the tabular data associated with the data set. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the data set.</eaover>
+			<eadetcit>The entity and attribute information was generated by the individual and/or agency identified as the originator of the data set. Please review the rest of the metadata record for additional details and information.</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Fish and Wildlife Service</cntorg>
+				</cntorgp>
+				<cntpos>ECOSphere Development Team</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical</addrtype>
+					<address>5275 Leesburg Pike</address>
+					<city>Bailey's Crossroads</city>
+					<state>VA</state>
+					<postal>22041</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>970-266-2999</cntvoice>
+				<cntemail>http://ecos.fws.gov/ecp/helpTickets/create</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>Although these data have been processed successfully on a computer system at the U.S. Fish and Wildlife Service, no warranty expressed or implied is made by the U.S. Fish and Wildlife Service regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Fish and Wildlife Service in the use of these data.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Vector Digital Data Set (Polyline)</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://ecos.fws.gov/docs/crithab/crithab_all/crithab_all_layers.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>There is no charge for the online option.</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20221028</metd>
+		<metrd>20221028</metrd>
+		<metfrd>20170131</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Fish and Wildlife Service</cntorg>
+					<cntper>Zoe Ritter</cntper>
+				</cntorgp>
+				<cntpos>Branch of Data Integration, Ecological Services</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and Physical</addrtype>
+					<address>5275 Leesburg Pike</address>
+					<city>Bailey's Crossroads</city>
+					<state>VA</state>
+					<postal>22041</postal>
+					<country>US</country>
+				</cntaddr>
+				<cntvoice>703-358-2171</cntvoice>
+				<cntemail>ECOSphereSupport@doimspp.onmicrosoft.com</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+	<Esri><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\IFW9ECOS-LW739\C$\Users\ragilbert\Documents\ArcGIS\OnlineProjects\crithab\Metadata\CRITHAB_LINE</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="C:\Users\ragilbert\Documents\ArcGIS\MetadataWizardToolbox\workingdir\CRITHAB_LINE" dest="\\IFW9ECOS-LW739\C$\Users\ragilbert\Documents\ArcGIS\OnlineProjects\crithab\Metadata\CRITHAB_LINE" date="20161006" time="10552100"></copy></copyHistory></DataProperties></Esri></metadata>

@@ -1,0 +1,12 @@
+source,target,value
+Proposed,Not Listed,1352
+Proposed,Endangered,156
+Proposed,Threatened,59
+Endangered,Recovery Plan in Place,128
+Threatened,Recovery Plan in Place,42
+Endangered,No Recovery Plan,17
+Threatened,No Recovery Plan,17
+Recovery Plan in Place,Reviewed,152
+No Recovery Plan,Reviewed,17
+Recovery Plan in Place,Not Reviewed,18
+No Recovery Plan,Not Reviewed,28

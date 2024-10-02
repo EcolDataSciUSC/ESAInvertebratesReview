@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation gco:nilReason="missing"/>
+            <abstract>
+                <gco:CharacterString>This data set shows North American marine ecoregions.  Marine ecoregions are areas which fall within the Exclusive Economic Zones of the North American countries and which have general similarity in terms of physiographic, oceanographic, and biological characteristics.  These marine ecoregions are constructed as a spatial framework with three nested levels.  The data are intended to be scalable: appropriate for perspectives and interests varying from regional to continental in scope; ecosystem-oriented: based on a range of connected biological, oceanographic, and physiographic characteristics; and linked: related to other marine and terrestrial data sets, classification systems, and disciplines. The 24 Level I marine ecoregions capture ecosystem differences at the most general scale by grouping together large water masses and currents, enclosed seas, and regions of coherent sea surface temperature or ice cover.  The 86 Level II marine ecoregions capture the break between near-shore and oceanic areas, with the boundaries determined by large-scale features such as the continental shelf, continental slope, major trenches, and other features.  Level II reflects the importance of depth as well as the importance of major physiographic features in determining current flows and upwelling.  The 86 Level III marine ecoregions capture differences within the near- shore area and are based on local characteristics of the water mass, regional physiographic features, and biological community types.  Level III ecoregions are defined only for the continental shelf, because this is the only ocean area for which sufficient information is available for finer-scale delineation.  The seaward boundaries of the marine ecoregions, as mapped, are approximate and do not represent the actual seaward boundaries of the ecoregions or an exact boundary of the Exclusive Economic Zones of the three countries. This dataset is being used within the American Conservation and Stewardship Atlas to support the America the Beautiful initiative in representing natural resources, societal interests, and conservation and restoration efforts. These data have been made publicly available from an authoritative source other than this Atlas and data should be obtained directly from that source for any re-use. See the original metadata from the authoritative source for more information about these data and use limitations. The authoritative source of these data can be found at the following location:www.cec.org/north-american-environmental-atlas/marine-ecoregions/The Commission for Environmental Cooperation (CEC) is an international organization created by Canada, Mexico, and the United States of America under the North American Agreement on Environmental Cooperation (NAAEC). The CEC was established to address regional environmental concerns, help prevent potential trade and environmental conflicts, and to promote the effective enforcement of environmental law. The Agreement complements the environmental provisions of the North American Free Trade Agreement (NAFTA). Further information on the CEC is available from https://www.cec.org/ or from Commission for Environmental Cooperation,  393, rue St-Jacques Ouest, Bureau 200,  Montréal (Québec) H2Y 1N9 Canada, Telephone: 1 514 350 4300, Facsimile: 1 514 350 4314, Electronic mail: info@cec.org</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString> The North American Atlas data are intended for geographic display and analysis at the national and continental level.  These data should be displayed and analyzed at scales appropriate for 1:10,000,000-scale data.  No responsibility is assumed by the Commission for Environmental Cooperation in the use of these data.  The Marine Ecoregions of North America, 2008, are intended to  support research, education, inventorying, monitoring, planning, management, and conservation of North American marine resources and ecosystems. </gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>Commission for Environmental Cooperation. 2008. Marine Ecoregions of North America, Commission for Environmental Cooperation, Available at: https://www.cec.org/naatlas/</gco:CharacterString>
+            </credit>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>

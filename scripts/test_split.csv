@@ -1,0 +1,119 @@
+test_split
+1. Residential & Commercial Development
+False
+1.1 Housing & Urban Areas
+False
+1.2 Commercial & Industrial Areas
+False
+1.3 Tourism & Recreation Areas
+False
+2. Agriculture & Aquaculture
+False
+2.1 Annual & Perennial Non-Timber Crops
+False
+2.2 Wood & Pulp Plantations
+False
+2.3 Livestock Farming & Ranching
+False
+2.4 Marine & Freshwater Aquaculture
+False
+3. Energy Production & Mining
+False
+3.1 Oil & Gas Drilling
+False
+3.2 Mining & Quarrying
+False
+3.3 Renewable Energy
+False
+4. Transportation & Service Corridors
+False
+4.1 Roads & Railroads
+False
+4.2 Utility & Service Lines
+False
+4.3 Shipping Lanes
+False
+4.4 Flight Paths
+False
+5. Biological Resource Use
+False
+5.1 Hunting & Trapping Terrestrial Animals
+False
+5.2 Gathering Terrestrial Plants
+False
+5.3 Logging & Wood Harvesting
+False
+5.4 Fishing & Harvesting Aquatic Resources
+False
+6. Human Intrusions & Disturbance
+False
+6.1 Recreational Activities
+False
+"6.2 War, Civil Unrest & Military Exercises"
+False
+6.3 Work & Other Activities
+False
+7. Natural System Modifications
+False
+7.1 Fire & Fire Suppression
+False
+7.2 Dams & Water Management/Use
+False
+7.3 Other Ecosystem Modifications
+False
+"8. Invasive & Other Problematic Species, Genes & Diseases"
+True
+8.1 Invasive Non-Native/Alien Species
+False
+8.2 Problematic Native Species
+False
+8.3 Introduced Genetic Material
+False
+8.4 Problematic Species/Diseases of Unknown Origin
+True
+8.5 Viral/prion-induced Diseases
+False
+8.6 Fungal Diseases
+False
+9. Pollution
+True
+9.1 Household Sewage & Urban Waste Water
+False
+9.2 Industrial & Military Effluents
+False
+9.3 Agricultural & Forestry Effluents
+False
+9.4 Garbage & Solid Waste
+False
+9.5 Air-borne Pollutants
+False
+9.6 Excess Energy
+False
+10. Geological Events
+True
+10.1 Volcanoes
+False
+10.2 Earthquakes/Tsunamis
+False
+10.3 Avalanches/Landslides
+False
+10.4 Eruptions
+False
+10.5 Other Geological Events
+False
+11. Climate Change & Severe Weather
+True
+11.1 Habitat Shifting & Alteration
+False
+11.2 Droughts
+False
+11.3 Temperature Extremes
+True
+11.4 Storms & Flooding
+True
+11.5 Other Impacts
+False
+12. Other Options
+False
+12.1 Other Threat
+False
